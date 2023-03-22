@@ -1,4 +1,4 @@
-import { AccountService } from './../_services/account.service';
+import { AccountService } from '../_services/account.service';
 import { Injectable } from '@angular/core';
 import {
   HttpRequest,
